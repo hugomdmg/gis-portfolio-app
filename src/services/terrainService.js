@@ -1,5 +1,7 @@
 
-const API_URL = "http://localhost:8000";
+// const API_URL = "http://localhost:8000";
+const API_URL = "https://gis-portfolio-api.vercel.app/";
+
 
 const cache = new Map();
 const pending = new Map();
